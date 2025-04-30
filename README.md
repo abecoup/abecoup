@@ -1,6 +1,6 @@
 Hi there, I’m @abecoup.
 
-I'm currently a graduate software engineering student at Rochester Institute of Technology conducting research focused on story point estimation using machine learning.
+I'm a Software Engineer at Xerox, diligently improving and maintaining the Local User Interface (LUI) experience of our flagship devices.
 
 To learn some more about me check out my [LinkedIn](https://www.linkedin.com/in/abraham-couperus-9374aa1a3/). 
 
